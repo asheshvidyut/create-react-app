@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          I am batman
+          I am superman
         </a>
       </header>
     </div>
